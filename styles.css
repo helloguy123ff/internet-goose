@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#goose {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
